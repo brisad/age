@@ -1,0 +1,7 @@
+[package]
+name = "age"
+version = "0.1.0"
+authors = ["Michael Brennan <brennan.brisad@gmail.com>"]
+
+[dependencies]
+chrono = "0.2"
